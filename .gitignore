@@ -1,0 +1,31 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de publicación
+publish/
+artifacts/
+
+# NuGet
+*.nupkg
+**/packages/*
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
